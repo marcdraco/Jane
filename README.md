@@ -1,5 +1,5 @@
 # Jane
-Named in honour of Jane Green MBE, founder and chair of SEDSConnective
+Named in honour of Jane Green MBE, founder and chair of https://www.sedsconnective.org/
 
 ![image](https://github.com/user-attachments/assets/56ab170a-6008-48d5-988c-0c3e86f68ef4)
 
